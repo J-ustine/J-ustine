@@ -13,5 +13,3 @@
 https://justinecollache.netlify.app/
 <br />
 https://www.linkedin.com/in/collachejustine/
-
-HTML | CSS | JavaScript | React | Node | Express | MongoDB | API | Bootstrap | Git & GitHub
