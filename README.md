@@ -1,6 +1,6 @@
 ### Welcome!
 
-:bulb: After more than 3 years of experience in the finance industry, I decided to step out of my comfort zone and learn programming from scratch on my own during 2020. Taking advantage of the lockdown, I acquired skills through online training, certifications, and lots of projects! What started out as curiosity for the tech industry, turned off into a passion for software development!
+:bulb: What started out as curiosity for the tech industry, turned off into a passion for software development!
 
 :sparkles: As a developer, I love building full-stack apps from scratch, from idea to deployment using the GitHub control version. I enjoy solving logical problems and creating aesthetic products.
 
